@@ -8,7 +8,7 @@ Kaggle Road Sign Detection dataset: 0.040
 
 Traffic Sign Recogntion Database : 0.970
 
-Real vandalized traffic signs (collected from google image) : 0.409
+###### Real vandalized traffic signs (collected from google image) : 0.409
 
 
 
@@ -22,4 +22,4 @@ Kaggle Road Sign Detection dataset: 0.040 (+0.0)
 
 Traffic Sign Recogntion Database : 0.977 (+0.007)
 
-Real vandalized traffic signs (collected from google image) : 0.683 (+0.274)
+###### Real vandalized traffic signs (collected from google image) : 0.683 (+0.274)
