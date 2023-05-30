@@ -1,4 +1,4 @@
-Accuracy without using synthesized vandalized traffic signs in training:
+### Accuracy without using synthesized vandalized traffic signs in training:
 
 ImageNet dataset (non traffic signs): 0.983
 
@@ -12,10 +12,7 @@ Real vandalized traffic signs (collected from google image) : 0.409
 
 
 
-
-
-
-Accuracy using synthesized vandalized traffic signs in training:
+### Accuracy using synthesized vandalized traffic signs in training:
 
 ImageNet dataset (non traffic signs): 0.955 (-0.028)
 
