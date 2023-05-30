@@ -1,0 +1,87 @@
+batch_size: 32 , vandTrain: False , weights path: weights/pt_noVT_final1 , num epochs: 20
+/squash/ImageNet-zstd/train/n01440764/n01440764_10026.JPEG
+Imagenet # of images: 12798
+road_signs_dtst # of images: 4170
+real vand (test) # of images: 259
+size of train 16968
+Size of dl 530
+model loaded
+Multiple GPUS found!
+epoch 0 started torch.Size([32, 3, 224, 224])
+0.0 % progress
+0.0988235294117647 % progress
+0.1976470588235294 % progress
+0.2964705882352941 % progress
+0.3952941176470588 % progress
+0.49411764705882355 % progress
+0.5929411764705882 % progress
+0.691764705882353 % progress
+0.7905882352941176 % progress
+0.8894117647058823 % progress
+0.9882352941176471 % progress
+1.0870588235294119 % progress
+1.1858823529411764 % progress
+End of epoch 0, mean loss: 0.056447228076560246
+/squash/ImageNet-zstd/train/n01440764/n01440764_10026.JPEG
+Imagenet # of images: 12798
+road_signs_dtst # of images: 4170
+real vand (test) # of images: 259
+size of test 8852
+final test acc ImageNet : 0.9993749023284888
+final test acc GTSRB : 0.08666666666666667
+final test acc Kaggle : 0.02
+final test acc TSRD : 0.3279839518555667
+final test acc vandSigns : 0.015444015444015444
+weights/pt_noVT_final1/epoch000000.pt
+End of epoch 1, mean loss: 0.0703290733791018
+End of epoch 2, mean loss: 0.06201155143295731
+End of epoch 3, mean loss: 0.06149476623779848
+End of epoch 4, mean loss: 0.05791114254559188
+End of epoch 5, mean loss: 0.060813495339051477
+/squash/ImageNet-zstd/train/n01440764/n01440764_10026.JPEG
+Imagenet # of images: 12798
+road_signs_dtst # of images: 4170
+real vand (test) # of images: 259
+size of test 8852
+final test acc ImageNet : 0.9876543209876543
+final test acc GTSRB : 0.9266666666666666
+final test acc Kaggle : 0.04
+final test acc TSRD : 0.9638916750250752
+final test acc vandSigns : 0.15444015444015444
+weights/pt_noVT_final1/epoch000005.pt
+End of epoch 6, mean loss: 0.052865755635825476
+End of epoch 7, mean loss: 0.0549058729175364
+End of epoch 8, mean loss: 0.05683287135380285
+End of epoch 9, mean loss: 0.05722639501975621
+End of epoch 10, mean loss: 0.0498336742913245
+/squash/ImageNet-zstd/train/n01440764/n01440764_10026.JPEG
+Imagenet # of images: 12798
+road_signs_dtst # of images: 4170
+real vand (test) # of images: 259
+size of test 8852
+final test acc ImageNet : 0.9834349117049539
+final test acc GTSRB : 0.8133333333333334
+final test acc Kaggle : 0.04
+final test acc TSRD : 0.9699097291875627
+final test acc vandSigns : 0.4092664092664093
+weights/pt_noVT_final1/epoch000010.pt
+End of epoch 11, mean loss: 0.05316742230459327
+End of epoch 12, mean loss: 0.04669896228082988
+End of epoch 13, mean loss: 0.05522247935729848
+End of epoch 14, mean loss: 0.05115678546915077
+End of epoch 15, mean loss: 0.053175730140712814
+/squash/ImageNet-zstd/train/n01440764/n01440764_10026.JPEG
+Imagenet # of images: 12798
+road_signs_dtst # of images: 4170
+real vand (test) # of images: 259
+size of test 8852
+final test acc ImageNet : 0.9912486325988435
+final test acc GTSRB : 0.6666666666666666
+final test acc Kaggle : 0.04
+final test acc TSRD : 0.9488465396188566
+final test acc vandSigns : 0.2471042471042471
+weights/pt_noVT_final1/epoch000015.pt
+End of epoch 16, mean loss: 0.04317139001093137
+End of epoch 17, mean loss: 0.05255884128943402
+End of epoch 18, mean loss: 0.04583982849034551
+End of epoch 19, mean loss: 0.052492801550081666
